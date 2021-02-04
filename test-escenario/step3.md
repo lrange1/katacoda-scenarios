@@ -1,5 +1,6 @@
-ejemplo del paso 1 para el scenario de katacoda
+####ejemplo del paso 2 para el scenario de katacoda
 
-1. Realizar $ git commit
+##ejecutar
+`$ git commit -m "mensaje"`
 
-2. ejecutar $ git push origin master
+`$ git push origin branch`
