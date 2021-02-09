@@ -9,7 +9,9 @@
 ```sh
 $ git status
 On branch master
+
 No commits yet
+
 Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
         new file:   index.html
@@ -37,3 +39,7 @@ lo que se ha hecho con este comando es decirle a git que guarde los cambios real
 ```
 
 Si ejecutamos `$ git status ` nos indica que el archivo <abbr title="Hyper Text Markup Language"> index.html </abbr> ahora vamos a añadir este archivo en especifico para esto debemos ejcutar `$ git add index.html`, a diferencia de `$ git add .` este solo añade el archivo que le indiquemos y si queremos agregar todo ejecutamos `$ git add .`
+
+Finalmente agregamo un commit:
+
+> - `$ git commit -m "Update Index.html"`
