@@ -1,8 +1,8 @@
-###Flujo de trabajo con Git
+### Flujo de trabajo con Git
 
 Un repositorio local de git está compuesto en tres partes el primero es el directorio de trabajo que es el que contiene todos los archivos () la segunda parte es el Index que es la zona intermedia, donde se añaden los cambios que van a ser subidos al repositorio remoto, y la tercera parte es el Head el cual es un apuntador al último commit que se realiza. 
 
-###Glosario de comandos
+### Glosario de comandos
                     
 Comando | Descripcion
 ------------- | -------------
