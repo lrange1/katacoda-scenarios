@@ -2,7 +2,7 @@
   "title": "test-escenario-katacoda",
   "description": "prueba de creacion de escenarios",
   "difficulty": "Beginner",
-  "time": "60",
+  "time": "60 minutos",
   "details": {
     "steps": [
       {
@@ -16,6 +16,10 @@
       {
         "title": "Step 3",
         "text": "step3.md"
+      },
+      {
+        "title": "Step 4",
+        "text": "step4.md"
       }
     ],
     "intro": {
@@ -29,6 +33,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "git"
+    "imageid": "ubuntu 18.04"
   }
 }
