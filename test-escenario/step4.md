@@ -41,3 +41,5 @@ Si ejecutamos `$ git status ` nos indica que el archivo <abbr title="Hyper Text 
 Finalmente agregamo un commit:
 
 > - `$ git commit -m "Update Index.html"`
+
+Usando el comando `$ git log` podemos ver los commits que se han realizado y si queremos ver de una manera resumida usamos `$ git log --oneline`
