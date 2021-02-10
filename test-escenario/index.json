@@ -1,25 +1,29 @@
 {
   "title": "test-escenario-katacoda",
-  "description": "prueba de creacion de escenarios",
+  "description": "Prueba de creacion de escenarios",
   "difficulty": "Beginner",
   "time": "60 minutos",
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "1. Instalación de Git en linux",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "2. Configuración de credenciales",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "3. Creacion de un repositorio",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "4. Gestión básica de un proyecto",
         "text": "step4.md"
+      },
+      {
+        "title": "5. Creación de ramas",
+        "text": "step5.md"
       }
     ],
     "intro": {

@@ -1,5 +1,3 @@
-## 3. Creacion de un repositorio
-
 - Para iniciar un proyecto con Git, vamos a crear una carpeta llamada curso-git que va a contener el proyecto, se debe ejecutar:
 
     > -  `$ mkdir curso-git `
@@ -24,6 +22,6 @@ No commits yet
 Untracked files:
   (use "git add <file>..." to include in what will be committed)
         index.html
-        
+
 nothing added to commit but untracked files present (use "git add" to track)
 ```

@@ -1,5 +1,3 @@
-## 1. instalacion de Git en linux
-
 ### Debian/Ubuntu
 
 - Ejecutar en la terminal:

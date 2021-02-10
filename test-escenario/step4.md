@@ -1,5 +1,3 @@
-## 4. Gestion basica de un proyecto
-
 - Ahora se debe realizar el seguimiento de los cambios que hemos hecho al agregar el fichero <abbr title="Hyper Text Markup Language"> index.html </abbr>, para ello ejecutamos: 
 
 > -  `$ git add .`

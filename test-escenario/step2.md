@@ -1,5 +1,3 @@
-## 2. Configuración de credenciales
-
 Se debe configurar las variables globales de git como el nombre de usuario y el email para esto se deben ejecutar los siguientes comandos.
 
 > - `$ git config --global user.name "nombre usuario" `
