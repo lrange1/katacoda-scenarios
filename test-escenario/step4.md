@@ -19,7 +19,7 @@ Changes to be committed:
 
 > - `$ git commit -m "add file index.html"`
 
-lo que se ha hecho con este comando es decirle a git que guarde los cambios realizados en este fichero llamado <abbr title="Hyper Text Markup Language"> index.html </abbr>
+lo que se ha hecho con este comando es decirle a git que guarde los cambios realizados en este fichero llamado <abbr title="Hyper Text Markup Language"> index.html </abbr> 
 
 - Vamos a modificar el archivo <abbr title="Hyper Text Markup Language"> index.html </abbr> agregando el siguiente contenido: 
 

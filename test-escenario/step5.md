@@ -1,3 +1,5 @@
+Una rama Git es simplemente un apuntador móvil apuntando a una confirmacion (Commit). La rama por defecto de Git es la rama master. Con la primera confirmación de cambios que realicemos, se creará esta rama principal master apuntando a dicha confirmación. En cada confirmación de cambios que realicemos, la rama irá avanzando automáticamente.
+
 - Vamos a crear una rama llamada dev para esto ejecutamos:
 
 > - `$ git checkout -b dev`
