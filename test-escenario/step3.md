@@ -11,7 +11,7 @@
 
     > -  `$ touch index.html`
 
-- Ejecuta `$ git status ` esto nos indicara que no se ha realizado ningun commit y que existe un archivo, esto indica que aun no tiene nada guardado y que se deben seguir los cambios.
+- Al ejecutar `$ git status ` nos indicara que no se ha realizado ningun commit y que existe un archivo, esto indica que aun no tiene nada guardado y que se deben seguir los cambios, la salida en terminal luego de ejecutar el comando es la siguiente:
 
 ```sh
 $ git status

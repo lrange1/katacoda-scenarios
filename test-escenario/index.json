@@ -32,6 +32,10 @@
       {
         "title": "7. Resolver conflictos",
         "text": "step7.md"
+      },
+      {
+        "title": "8. Gitflow",
+        "text": "step8.md"
       }
     ],
     "intro": {
