@@ -17,9 +17,12 @@ Comando | Descripcion
 `$ git clone URL ` | Clona un repositorio
 `$ git pull origin NombreDeBranch ` | Hace una actualización bajando los cambios del repositorio remoto al local
 `$ git merge NombreDeBranch ` | Se usa para fusionar dos ramas
+
+
+
 ### Que es GitFlow
 
-GitFlow es una estrategia estándar para la gestión de ramas, que facilita el control de cambios en tareas de desarrollo en paralelo y promueve la alta calidad en las entregas de nuevas funcionalidades. GitFlow también es el nombre de una herramienta basada en Git que reduce el numero de pasos (comandos que requieren ser ejecutados) en el procedo de control de cambios en la estrategia misma (GitFlow). El presente documento guía al desarrollador en el uso de la herramienta en pro de seguir la estrategia GitFlow.
+GitFlow es una estrategia estándar para la gestión de ramas, que facilita el control de cambios en tareas de desarrollo en paralelo y promueve la alta calidad en las entregas de nuevas funcionalidades. GitFlow también es el nombre de una herramienta basada en Git que reduce el numero de pasos (comandos que requieren ser ejecutados) en el proceso de control de cambios en la estrategia misma (GitFlow)
 
 
 ### Glosario de comandos en GitFlow
