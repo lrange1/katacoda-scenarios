@@ -4,12 +4,23 @@ Se debe configurar las variables globales de git como el nombre de usuario y el 
 
 > - `$ git config --global user.email "email"`
 
+Un ejemplo de los comandos podria ser:
 
-Configurar el proxy (En caso de ser necesario)
+> - `$ git config --global user.name "sperez" `
+> - `$ git config --global user.email "sperez@gmail.com"`
+
+
+Configurar el proxy (En caso de ser necesario), para este caso no se requiere la configuración del proxy
 
 > - `$ git config --global http.proxy "http://usuario_dominio:clave@dominio:port" `
 
 > - `$ git config --global https.proxy "http://usuario_dominio:clave@dominio:port" `
+
+un ejemplo de los comandos usados podrian ser:
+
+> - `$ git config --global http.proxy "http://sperez:seguridad2020*@picis:80" `
+
+> - `$ git config --global https.proxy "http://sperez:seguridad2020*@picis:80" `
 
 
 Para poder validar la configuracion realizada podemos ejecutar el comando `$ cat ~/.gitconfig` que nos indicara las variables que hemos configurado. tambien podemos listar todas las configuraciones con el comando `$ git config --list`
