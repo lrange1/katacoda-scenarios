@@ -34,6 +34,6 @@ Comando | Descripcion
 `$ git flow feature publish [FEATURE_NAME]`| Publicación de la rama en el repositorio de código fuente (GitHub, Azure repositorios, etc)
 `$ git flow feature pull origin [FEATURE_NAME]` | Halar nuevos cambios desde el repositorio de código fuente (GitHub, Azure repositorios, etc)
 `$ git push origin feature/[FEATURE_NAME]` | Subir nuevos cambios al repositorio de código fuente (GitHub, Azure repositorios, etc)
-`$ git reset --soft [BASELINE COMMIT ID` | Integrar todos los feature en uno solo Commit
+`$ git reset --soft [BASELINE COMMIT ID]` | Integrar todos los feature en uno solo Commit
 `$ git flow feature finish [FEATURE_NAME]` | Finalizar la rama feature y promocionar los cambios a la rama dev
 `$ git flow push origin develop` | Subir los cambios de la rama dev al repositorio de código fuente (GitHub)
